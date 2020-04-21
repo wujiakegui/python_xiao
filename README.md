@@ -1,3 +1,3 @@
 # python_huang
 
-## img
+##   img/xuexi.jpg
